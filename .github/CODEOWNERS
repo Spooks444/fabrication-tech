@@ -1,0 +1,5 @@
+# CODEOWNERS for fabrication-tech
+#
+# Only phant may approve/review changes.
+# External contributors can open PRs but cannot merge without approval.
+# Dangerous tooling/firmware changes require explicit review.
